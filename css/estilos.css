@@ -1,3 +1,10 @@
 body {
     font-family: Helvetica;
+    color:green;
+    background: url("../img/pattern-background-desktop.svg");
+}
+
+#div_main {
+    background-color: gray;
+    width: 400px
 }
